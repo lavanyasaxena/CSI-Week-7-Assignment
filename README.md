@@ -1,4 +1,3 @@
-# CSI-Week-7-Assignment
 ## SUMMARY
 
 ### 1. Built a student placement prediction system using Random Forest Classifier.
